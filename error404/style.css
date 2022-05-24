@@ -1,0 +1,12 @@
+body{
+    background-color: #2C164C;
+}
+/* .navbar .container-fluid{
+    background-color: #2C164C;
+} */
+main .container{
+    height: 100vh;
+}
+main .row .col-12 img{
+    width: 50%;
+}

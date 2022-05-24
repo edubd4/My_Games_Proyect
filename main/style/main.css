@@ -1,0 +1,23 @@
+.carousel-inner .carousel-item{
+    height: 50vh;
+}
+.carousel-inner .carousel-item img{
+    height: 100%;
+    object-fit: cover;
+    text-align: justify;
+}
+@media (max-width:768px) {
+    .carousel-inner .carousel-item{
+        height: 100vh;
+    }
+}
+.ads{
+    width: 100%;
+}
+.ads img{
+    width: 100%;
+    object-fit: cover;
+}
+main{
+    background: url(../img/back/2795961.jpg) no-repeat fixed;
+}
